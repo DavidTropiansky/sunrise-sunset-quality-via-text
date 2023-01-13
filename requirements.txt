@@ -1,0 +1,4 @@
+pysunsetwx == 1.0.0b1
+geopandas
+geopy
+twilio
