@@ -153,4 +153,4 @@ message = client.messages.create(
 # The sun forecast for tomorrow at Central Park, NYC will be as follows: Sunrise quality tomorrow will be Poor (16.94%) at 07:18. Sunset quality today will be Poor (21.0%) at 16:51.
 ```
 
-<img width="344" alt="image" src="https://user-images.githubusercontent.com/113219225/212400651-13790b8d-2fc0-4043-b61c-3e31ad5f4cc1.png">
+<img width="361" alt="image" src="https://user-images.githubusercontent.com/113219225/212402403-4d3b73da-39da-4729-9660-4a4df8b0a383.png">
