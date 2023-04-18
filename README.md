@@ -35,8 +35,10 @@ py_sunsetwx = PySunsetWx(username, password)
 # Convert location into coordinates
 loc = "Central Park, NYC"
 
-from geopy.geocoders import Nominatim
-geolocator = Nominatim(user_agent="geoapiExercises")
+
+from geopy.geocoders import Photon
+
+geolocator = Photon(user_agent="measurements")
 location = geolocator.geocode(loc)
 
 lat = location.latitude
